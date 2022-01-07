@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "48804645624",
+    "project_id": "exopet-market",
+    "storage_bucket": "exopet-market.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48804645624:android:3f8b2dd2df14bcfa39890d",
+        "android_client_info": {
+          "package_name": "com.example.tokoonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48804645624-b6a2qh8cloksi2nl2tpeeelo0ni85ua2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tokoonline",
+            "certificate_hash": "c7cfad522e1ec84c5fec084bd31d61ce53a5ce17"
+          }
+        },
+        {
+          "client_id": "48804645624-38300mico97bd0rbktq9m805nq3bis6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXwEP_9Z64G9mDM19v11jl6nKLR-ingAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48804645624-38300mico97bd0rbktq9m805nq3bis6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
