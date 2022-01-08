@@ -114,7 +114,7 @@ class HomeFragment : Fragment() {
             p6.size = "5 Inch"
             p6.sex = "Male & Female"
             p6.desc = "Untuk detail klaim garansi  DOA dapat ditanyakan langsung kepada seller sebelum melakukan transaksi.Terima Kasih :)"
-            p6.gambar = R.drawable.img_4
+            p6.gambar = R.drawable.img_11
 
             val p7 = Product()
             p7.nama = "Parabuthus transvaalicus"
